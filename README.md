@@ -1,1 +1,2 @@
 # jablonskik
+//komentarz
